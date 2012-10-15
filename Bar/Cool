@@ -1,0 +1,18 @@
+color 255 204 204
+filledsquare 440 467 305
+color 255 255 204
+filledrectangle 443 466 260 257
+color 204 255 204
+filledrectangle 442 464 225 213
+color 204 204 255
+filledrectangle 443 464 190 174
+color 255 204 204
+filledrectangle 440 462 155 134
+color 255 255 204
+filledrectangle 440 462 130 106
+color 204 255 204
+filledrectangle 441 463 105 77
+color 204 204 255
+filledrectangle 442 463 69 51
+color 0 0 0
+filledcircle 441 464 14
